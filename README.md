@@ -2,16 +2,7 @@
 
 this is the first file in this repository
 
-#ipsum below
+#Website content
 
-fsf fdfdfd fdfdfdf 
-fsf fdfdfd fdfdfdf 
-fsf fdfdfd fdfdfdf 
-fsf fdfdfd fdfdfdf 
-v
-
-fsf fdfdfd fdfdfdf 
-fsf fdfdfd fdfdfdf 
-fsf fdfdfd fdfdfdf 
-fsf fdfdfd fdfdfdf 
+1.index.html
 
